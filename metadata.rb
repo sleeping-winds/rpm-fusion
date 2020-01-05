@@ -1,6 +1,6 @@
 name 'rpm-fusion'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'John Losito'
+maintainer_email 'lositojohnj@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures rpm-fusion'
 long_description 'Installs/Configures rpm-fusion'
