@@ -4,7 +4,7 @@ maintainer_email 'lositojohnj@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures rpm-fusion'
 long_description 'Installs/Configures rpm-fusion'
-version '0.2.0'
+version '0.2.1'
 chef_version '>= 13.0'
 supports 'fedora'
 

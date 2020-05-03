@@ -1,4 +1,6 @@
-# rpm-fusion
+# rpm-fusion Cookbook
+
+[![Cookbook Version](https://img.shields.io/cookbook/v/rpm-fusion.svg)](https://supermarket.chef.io/cookbooks/rpm-fusion)
 
 Installs the free and nonfree [RPM Fusion](https://rpmfusion.org/) repositories.
 
