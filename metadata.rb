@@ -1,7 +1,7 @@
 name 'rpm-fusion'
 maintainer 'John Losito'
 maintainer_email 'lositojohnj@gmail.com'
-license 'All Rights Reserved'
+license 'Apache-2.0'
 description 'Installs/Configures rpm-fusion'
 long_description 'Installs/Configures rpm-fusion'
 version '0.2.1'
